@@ -1,0 +1,27 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# dbt build output
+transform/target/
+transform/dbt_packages/
+transform/logs/
+logs/
+
+# Secrets and local config: never commit
+.env
+*.env
+profiles.yml
+
+# Databricks Asset Bundle local state
+.databricks/
+
+# Local Spark lab
+spark-warehouse/
+metastore_db/
+derby.log
+
+# OS / editor files
+Thumbs.db
+.vscode/
