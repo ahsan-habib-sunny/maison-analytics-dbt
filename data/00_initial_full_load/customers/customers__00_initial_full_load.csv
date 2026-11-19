@@ -1,0 +1,202 @@
+customer_id,first_name,last_name,email,city,country,tier,signup_date,updated_at
+C0001,Mei,Johnson,mei.johnson4@icloud.com,London,GB,Silver,2023-11-22,2023-11-22 10:00:00
+C0002,Lucas,Khan,lucas.khan64@outlook.com,Paris,France,Silver,2023-05-28,2023-05-28 10:00:00
+C0003,Yuki,Muller,yuki.muller59@icloud.com,Tokyo,Japan,Gold,2025-10-29,2025-10-29 10:00:00
+C0004,Omar,Garcia,omar.garcia26@icloud.com,London,UK,Silver,2020-10-11,2020-10-11 10:00:00
+C0005,Amelia,Chen,  AMELIA.CHEN62@ICLOUD.COM,Dubai,United Arab Emirates,Silver,2026-02-09,2026-02-09 10:00:00
+C0006,Yuki,Laurent,yuki.laurent21@icloud.com,Milan,Italy,Silver,2025-12-10,2025-12-10 10:00:00
+C0007,Omar,Muller,omar.muller50@outlook.com,Paris,France,Silver,2024-10-08,2024-10-08 10:00:00
+C0008,Lucas,Wang,lucas.wang37@outlook.com,Manchester,United Kingdom,Silver,2022-12-15,2022-12-15 10:00:00
+C0009,Lucas,Martin,lucas.martin13@gmail.com,New York,USA,silver,2025-05-28,2025-05-28 10:00:00
+C0010,Lucas,Khan,lucas.khan70@icloud.com,Manchester,United Kingdom,Platinum,2021-01-16,2021-01-16 10:00:00
+C0011,Giulia,Johnson,giulia.johnson15@icloud.com,Dubai,UAE,Silver,2023-12-12,2023-12-12 10:00:00
+C0012,Yuki,Ricci,yuki.ricci73@outlook.com,New York,United States,Silver,2026-05-15,2026-05-15 10:00:00
+C0013,Emma,Martin,emma.martin22@gmail.com,Manchester,United Kingdom,Gold,2021-02-19,2021-02-19 10:00:00
+C0014,Mei,Martin,mei.martin36@icloud.com,Tokyo,Japan,Silver,2022-01-29,2022-01-29 10:00:00
+C0015,Giulia,Tanaka,giulia.tanaka9@gmail.com,New York,US,Gold,2023-07-12,2023-07-12 10:00:00
+C0016,James,Smith,james.smith13@gmail.com,London,UK,Silver,2022-11-18,2022-11-18 10:00:00
+C0017,Zara,Moreau,zara.moreau41@outlook.com,Tokyo,Japan,Platinum,2021-01-19,2021-01-19 10:00:00
+C0018,Noah,Bianchi,  NOAH.BIANCHI55@ICLOUD.COM,Rome,Italy,Gold,2023-07-18,2023-07-18 10:00:00
+C0019,Zara,Tanaka,zara.tanaka38@outlook.com,Manchester,United Kingdom,Gold,2025-08-15,2025-08-15 10:00:00
+C0020,Olivia,Haddad,olivia.haddad38@icloud.com,Tokyo,Japan,Silver,2024-11-23,2024-11-23 10:00:00
+C0021,Leo,Ricci,leo.ricci70@outlook.com,London,UK,Silver,2024-09-02,2024-09-02 10:00:00
+C0022,Giulia,Clarke,giulia.clarke16@gmail.com,Paris,France,Silver,2021-04-06,2021-04-06 10:00:00
+C0023,Mei,Haddad,mei.haddad55@icloud.com,London,UK,Silver,2026-09-11,2026-09-11 10:00:00
+C0024,Henry,Sato,henry.sato85@gmail.com,Manchester,United Kingdom,Silver,2024-04-22,2024-04-22 10:00:00
+C0025,Zara,Moreau,zara.moreau33@gmail.com,Manchester,United Kingdom,Silver,2020-04-26,2020-04-26 10:00:00
+C0026,Omar,Wang,omar.wang34@outlook.com,Manchester,United Kingdom,Platinum,2023-02-07,2023-02-07 10:00:00
+C0027,Sophia,Rossi,sophia.rossi84@icloud.com,London,GB,Silver,2026-08-28,2026-08-28 10:00:00
+C0028,Leo,Taylor,leo.taylor81@gmail.com,London,GB,Silver,2025-11-01,2025-11-01 10:00:00
+C0029,Zara,Laurent,zara.laurent96@outlook.com,Milan,Italy,Platinum,2022-06-27,2022-06-27 10:00:00
+C0030,Omar,Tanaka,omar.tanaka26@outlook.com,Tokyo,Japan,Silver,2022-08-10,2022-08-10 10:00:00
+C0031,Omar,Wang,omar.wang25@gmail.com,New York,United States,Silver,2025-02-17,2025-02-17 10:00:00
+C0032,Olivia,Johnson,olivia.johnson5@icloud.com,Manchester,United Kingdom,Silver,2025-06-08,2025-06-08 10:00:00
+C0033,Omar,Tanaka,omar.tanaka92@icloud.com,Milan,Italy,Platinum,2024-03-06,2024-03-06 10:00:00
+C0034,Omar,Bianchi,  OMAR.BIANCHI74@GMAIL.COM,New York,US,Silver,2020-03-16,2020-03-16 10:00:00
+C0035,Mei,Rossi,mei.rossi11@gmail.com,Paris,France,Silver,2025-10-16,2025-10-16 10:00:00
+C0036,Grace,Taylor,grace.taylor21@outlook.com,Dubai,UAE,Silver,2022-12-06,2022-12-06 10:00:00
+C0037,Camille,Garcia,camille.garcia96@icloud.com,Dubai,United Arab Emirates,Gold,2024-01-03,2024-01-03 10:00:00
+C0038,James,Johnson,james.johnson93@icloud.com,Milan,Italy,Silver,2025-05-20,2025-05-20 10:00:00
+C0039,Camille,Rossi,camille.rossi15@icloud.com,London,United Kingdom,Gold,2026-01-17,2026-01-17 10:00:00
+C0040,Oliver,Brown,oliver.brown39@gmail.com,Tokyo,Japan,Silver,2020-01-09,2020-01-09 10:00:00
+C0041,Camille,Martin,camille.martin63@gmail.com,Tokyo,Japan,Silver,2022-10-13,2022-10-13 10:00:00
+C0042,Mei,Martin,mei.martin61@outlook.com,Tokyo,Japan,Silver,2023-05-19,2023-05-19 10:00:00
+C0043,Oliver,Chen,oliver.chen11@gmail.com,Tokyo,Japan,Gold,2022-10-08,2022-10-08 10:00:00
+C0044,Emma,Sato,emma.sato42@outlook.com,Milan,Italy,Silver,2023-07-02,2023-07-02 10:00:00
+C0045,Henry,Khan,henry.khan26@outlook.com,Milan,Italy,Gold,2025-07-13,2025-07-13 10:00:00
+C0046,Oliver,Muller,oliver.muller28@gmail.com,Manchester,United Kingdom,Gold,2023-11-28,2023-11-28 10:00:00
+C0047,James,Tanaka,james.tanaka16@outlook.com,Tokyo,Japan,Gold,2021-06-06,2021-06-06 10:00:00
+C0048,Emma,Dubois,emma.dubois30@outlook.com,New York,USA,Silver,2024-12-25,2024-12-25 10:00:00
+C0049,Emma,Haddad,emma.haddad82@outlook.com,Rome,Italy,Silver,2021-05-19,2021-05-19 10:00:00
+C0050,Zara,Muller,zara.muller13@icloud.com,Tokyo,Japan,Platinum,2023-09-10,2023-09-10 10:00:00
+C0051,Hugo,Bianchi,hugo.bianchi46@icloud.com,Manchester,United Kingdom,Silver,2026-02-16,2026-02-16 10:00:00
+C0052,Giulia,Smith,giulia.smith72@icloud.com,New York,US,Silver,2024-06-25,2024-06-25 10:00:00
+C0053,Mei,Clarke,  MEI.CLARKE61@OUTLOOK.COM,Manchester,United Kingdom,Silver,2026-06-29,2026-06-29 10:00:00
+C0054,Mei,Martin,mei.martin42@gmail.com,New York,USA,Gold,2022-06-19,2022-06-19 10:00:00
+C0055,Emma,Clarke,emma.clarke11@icloud.com,Tokyo,Japan,Silver,2025-10-10,2025-10-10 10:00:00
+C0056,Charlotte,Dubois,charlotte.dubois29@outlook.com,Tokyo,Japan,Gold,2020-02-16,2020-02-16 10:00:00
+C0057,Grace,Brown,grace.brown92@icloud.com,Manchester,United Kingdom,Silver,2021-11-30,2021-11-30 10:00:00
+C0058,James,Taylor,james.taylor71@icloud.com,Milan,Italy,Platinum,2023-01-14,2023-01-14 10:00:00
+C0059,Zara,Khan,zara.khan45@outlook.com,Tokyo,Japan,Silver,2025-04-12,2025-04-12 10:00:00
+C0060,Emma,Taylor,emma.taylor18@gmail.com,Rome,Italy,Gold,2023-09-01,2023-09-01 10:00:00
+C0061,Lucas,Bianchi,lucas.bianchi36@icloud.com,Tokyo,Japan,Silver,2022-11-05,2022-11-05 10:00:00
+C0062,Amelia,Muller,amelia.muller93@icloud.com,Paris,France,Platinum,2026-07-10,2026-07-10 10:00:00
+C0063,Hugo,Laurent,hugo.laurent63@outlook.com,Tokyo,Japan,Silver,2021-01-06,2021-01-06 10:00:00
+C0064,Omar,Rossi,omar.rossi68@icloud.com,New York,US,Gold,2020-11-15,2020-11-15 10:00:00
+C0065,Olivia,Chen,olivia.chen27@outlook.com,Dubai,United Arab Emirates,Silver,2022-05-29,2022-05-29 10:00:00
+C0066,Matteo,Dubois,matteo.dubois47@icloud.com,Tokyo,Japan,Silver,2023-01-13,2023-01-13 10:00:00
+C0067,Yuki,Dubois,yuki.dubois94@gmail.com,Milan,Italy,Gold,2026-01-17,2026-01-17 10:00:00
+C0068,Amelia,Taylor,amelia.taylor39@gmail.com,New York,USA,Silver,2026-06-04,2026-06-04 10:00:00
+C0069,Oliver,Dubois,oliver.dubois22@gmail.com,Rome,Italy,Gold,2026-01-22,2026-01-22 10:00:00
+C0070,James,Clarke,james.clarke70@gmail.com,Rome,Italy,Silver,2021-09-22,2021-09-22 10:00:00
+C0071,Omar,Brown,omar.brown88@icloud.com,Rome,Italy,Silver,2024-01-31,2024-01-31 10:00:00
+C0072,Camille,Laurent,  CAMILLE.LAURENT61@GMAIL.COM,London,UK,Silver,2023-08-22,2023-08-22 10:00:00
+C0073,Emma,Khan,emma.khan21@icloud.com,London,UK,Gold,2026-07-28,2026-07-28 10:00:00
+C0074,James,Muller,james.muller22@gmail.com,Dubai,United Arab Emirates,Gold,2021-01-03,2021-01-03 10:00:00
+C0075,Yuki,Johnson,yuki.johnson69@outlook.com,Milan,Italy,Silver,2025-07-18,2025-07-18 10:00:00
+C0076,Yuki,Haddad,yuki.haddad72@icloud.com,Rome,Italy,Silver,2024-01-27,2024-01-27 10:00:00
+C0077,Yuki,Martin,yuki.martin46@icloud.com,Paris,France,Silver,2022-05-14,2022-05-14 10:00:00
+C0078,Mei,Muller,mei.muller55@gmail.com,Dubai,United Arab Emirates,Gold,2022-04-13,2022-04-13 10:00:00
+C0079,Grace,Johnson,grace.johnson2@outlook.com,Manchester,United Kingdom,Gold,2023-01-05,2023-01-05 10:00:00
+C0080,Matteo,Dubois,matteo.dubois19@icloud.com,Paris,France,Platinum,2023-12-21,2023-12-21 10:00:00
+C0081,Henry,Clarke,henry.clarke90@icloud.com,London,United Kingdom,Silver,2025-02-10,2025-02-10 10:00:00
+C0082,Zara,Brown,zara.brown60@outlook.com,Rome,Italy,Gold,2022-11-09,2022-11-09 10:00:00
+C0083,Amelia,Brown,amelia.brown9@icloud.com,London,GB,Silver,2023-04-30,2023-04-30 10:00:00
+C0084,Mei,Ricci,mei.ricci79@outlook.com,Rome,Italy,Silver,2024-05-01,2024-05-01 10:00:00
+C0085,Camille,Smith,camille.smith51@gmail.com,Paris,France,Silver,2023-07-28,2023-07-28 10:00:00
+C0086,Olivia,Taylor,olivia.taylor97@icloud.com,Paris,France,Gold,2022-11-10,2022-11-10 10:00:00
+C0087,Camille,Haddad,camille.haddad31@outlook.com,Rome,Italy,Gold,2023-10-03,2023-10-03 10:00:00
+C0088,Layla,Laurent,layla.laurent54@gmail.com,Tokyo,Japan,Silver,2024-06-26,2024-06-26 10:00:00
+C0089,Lucas,Bianchi,lucas.bianchi76@outlook.com,Paris,France,Silver,2022-01-24,2022-01-24 10:00:00
+C0090,Matteo,Bianchi,matteo.bianchi94@gmail.com,Manchester,United Kingdom,Gold,2020-03-07,2020-03-07 10:00:00
+C0091,Layla,Laurent,,Tokyo,Japan,Silver,2023-04-21,2023-04-21 10:00:00
+C0092,Giulia,Laurent,giulia.laurent73@outlook.com,Paris,France,Silver,2025-10-30,2025-10-30 10:00:00
+C0093,Giulia,Chen,giulia.chen15@gmail.com,Manchester,United Kingdom,Silver,2026-03-21,2026-03-21 10:00:00
+C0094,Layla,Bianchi,layla.bianchi34@gmail.com,London,United Kingdom,Silver,2020-01-24,2020-01-24 10:00:00
+C0095,Sophia,Tanaka,sophia.tanaka5@gmail.com,Milan,Italy,Gold,2024-03-12,2024-03-12 10:00:00
+C0096,Zara,Taylor,zara.taylor89@outlook.com,Tokyo,Japan,Platinum,2026-03-01,2026-03-01 10:00:00
+C0097,Mei,Wang,mei.wang38@gmail.com,London,UK,Gold,2022-02-17,2022-02-17 10:00:00
+C0098,Yuki,Smith,yuki.smith80@icloud.com,New York,USA,Silver,2023-02-17,2023-02-17 10:00:00
+C0099,Sophia,Moreau,sophia.moreau71@icloud.com,Milan,Italy,Silver,2022-11-28,2022-11-28 10:00:00
+C0100,Omar,Johnson,omar.johnson69@outlook.com,Dubai,UAE,Silver,2020-08-06,2020-08-06 10:00:00
+C0101,Olivia,Muller,olivia.muller72@gmail.com,Manchester,United Kingdom,Gold,2020-05-08,2020-05-08 10:00:00
+C0102,Giulia,Sato,giulia.sato72@gmail.com,Milan,Italy,Silver,2022-01-01,2022-01-01 10:00:00
+C0103,Lucas,Brown,lucas.brown45@gmail.com,London,United Kingdom,Gold,2021-11-22,2021-11-22 10:00:00
+C0104,Hugo,Sato,hugo.sato89@gmail.com,Rome,Italy,Silver,2026-05-10,2026-05-10 10:00:00
+C0105,Charlotte,Dubois,charlotte.dubois49@gmail.com,London,United Kingdom,Silver,2026-03-03,2026-03-03 10:00:00
+C0106,Zara,Ricci,zara.ricci66@outlook.com,Tokyo,Japan,Gold,2024-09-10,2024-09-10 10:00:00
+C0107,Olivia,Tanaka,olivia.tanaka15@outlook.com,Dubai,United Arab Emirates,Platinum,2026-08-18,2026-08-18 10:00:00
+C0108,Zara,Ricci,zara.ricci40@icloud.com,Milan,Italy,Platinum,2026-09-01,2026-09-01 10:00:00
+C0109,Giulia,Chen,giulia.chen32@icloud.com,Paris,France,Gold,2023-11-04,2023-11-04 10:00:00
+C0110,Noah,Laurent,noah.laurent15@gmail.com,Rome,Italy,Silver,2021-10-13,2021-10-13 10:00:00
+C0111,Grace,Dubois,grace.dubois33@gmail.com,Manchester,United Kingdom,Gold,2025-11-30,2025-11-30 10:00:00
+C0112,Henry,Smith,henry.smith76@gmail.com,Rome,Italy,Silver,2021-09-08,2021-09-08 10:00:00
+C0113,Lucas,Brown,lucas.brown36@outlook.com,Manchester,United Kingdom,Gold,2023-08-23,2023-08-23 10:00:00
+C0114,Emma,Chen,emma.chen61@outlook.com,Manchester,United Kingdom,Gold,2023-05-03,2023-05-03 10:00:00
+C0115,Noah,Moreau,noah.moreau27@gmail.com,London,United Kingdom,Silver,2021-02-20,2021-02-20 10:00:00
+C0116,Layla,Khan,layla.khan13@gmail.com,Milan,Italy,Silver,2024-07-10,2024-07-10 10:00:00
+C0117,Mei,Moreau,mei.moreau27@icloud.com,Manchester,United Kingdom,Platinum,2023-10-05,2023-10-05 10:00:00
+C0118,Henry,Tanaka,henry.tanaka58@gmail.com,Tokyo,Japan,Silver,2026-01-13,2026-01-13 10:00:00
+C0119,Noah,Bianchi,noah.bianchi22@outlook.com,New York,United States,Silver,2020-06-02,2020-06-02 10:00:00
+C0120,Henry,Wang,henry.wang79@outlook.com,London,United Kingdom,Silver,2024-12-27,2024-12-27 10:00:00
+C0121,Hugo,Khan,,New York,United States,Gold,2026-09-09,2026-09-09 10:00:00
+C0122,Hugo,Haddad,hugo.haddad45@outlook.com,Tokyo,Japan,Silver,2025-12-30,2025-12-30 10:00:00
+C0123,James,Garcia,james.garcia32@icloud.com,Tokyo,Japan,Silver,2025-11-23,2025-11-23 10:00:00
+C0124,Charlotte,Sato,charlotte.sato23@outlook.com,Dubai,UAE,Silver,2020-04-29,2020-04-29 10:00:00
+C0125,James,Laurent,james.laurent48@gmail.com,Dubai,United Arab Emirates,Platinum,2021-10-06,2021-10-06 10:00:00
+C0126,Yuki,Garcia,yuki.garcia59@icloud.com,Paris,France,Gold,2021-04-23,2021-04-23 10:00:00
+C0127,James,Sato,james.sato40@gmail.com,Tokyo,Japan,Gold,2021-02-07,2021-02-07 10:00:00
+C0128,Zara,Dubois,zara.dubois81@outlook.com,Rome,Italy,Gold,2023-10-31,2023-10-31 10:00:00
+C0129,Omar,Wang,omar.wang77@gmail.com,Tokyo,Japan,Silver,2022-02-20,2022-02-20 10:00:00
+C0130,Camille,Chen,camille.chen13@icloud.com,Rome,Italy,Gold,2022-08-27,2022-08-27 10:00:00
+C0131,Sophia,Smith,sophia.smith55@gmail.com,Rome,Italy,Silver,2021-06-20,2021-06-20 10:00:00
+C0132,Matteo,Johnson,matteo.johnson7@outlook.com,Paris,France,Silver,2025-01-12,2025-01-12 10:00:00
+C0133,Emma,Moreau,emma.moreau55@gmail.com,Dubai,UAE,Platinum,2020-10-08,2020-10-08 10:00:00
+C0134,Camille,Clarke,camille.clarke34@outlook.com,New York,USA,Gold,2020-02-14,2020-02-14 10:00:00
+C0135,Sophia,Muller,sophia.muller74@icloud.com,Paris,France,Silver,2024-02-03,2024-02-03 10:00:00
+C0136,Grace,Sato,grace.sato68@outlook.com,Milan,Italy,Silver,2026-06-27,2026-06-27 10:00:00
+C0137,Hugo,Chen,hugo.chen53@icloud.com,New York,US,Silver,2022-10-28,2022-10-28 10:00:00
+C0138,Lucas,Rossi,lucas.rossi67@outlook.com,Tokyo,Japan,Silver,2026-08-15,2026-08-15 10:00:00
+C0139,Olivia,Bianchi,olivia.bianchi90@outlook.com,Tokyo,Japan,Gold,2022-10-07,2022-10-07 10:00:00
+C0140,Mei,Muller,mei.muller78@outlook.com,Rome,Italy,Platinum,2024-07-20,2024-07-20 10:00:00
+C0141,Zara,Chen,zara.chen73@outlook.com,Tokyo,Japan,silver,2024-10-29,2024-10-29 10:00:00
+C0142,Henry,Johnson,henry.johnson62@gmail.com,New York,US,Silver,2023-12-30,2023-12-30 10:00:00
+C0143,Noah,Smith,noah.smith70@icloud.com,New York,USA,Silver,2020-06-29,2020-06-29 10:00:00
+C0144,James,Tanaka,james.tanaka39@icloud.com,Manchester,United Kingdom,Silver,2023-09-17,2023-09-17 10:00:00
+C0145,Amelia,Brown,amelia.brown23@gmail.com,Dubai,UAE,Platinum,2022-06-13,2022-06-13 10:00:00
+C0146,Lucas,Martin,lucas.martin38@gmail.com,London,UK,Gold,2026-01-19,2026-01-19 10:00:00
+C0147,Charlotte,Brown,charlotte.brown10@icloud.com,Paris,France,Silver,2022-07-28,2022-07-28 10:00:00
+C0148,Omar,Smith,omar.smith53@outlook.com,New York,United States,Gold,2024-12-10,2024-12-10 10:00:00
+C0149,Yuki,Taylor,yuki.taylor40@gmail.com,Manchester,United Kingdom,Gold,2024-12-12,2024-12-12 10:00:00
+C0150,Giulia,Clarke,giulia.clarke92@gmail.com,Manchester,United Kingdom,Silver,2026-01-05,2026-01-05 10:00:00
+C0151,James,Wang,james.wang82@icloud.com,Rome,Italy,Gold,2026-06-09,2026-06-09 10:00:00
+C0152,Charlotte,Dubois,charlotte.dubois25@outlook.com,Manchester,United Kingdom,Silver,2023-03-23,2023-03-23 10:00:00
+C0153,Yuki,Khan,yuki.khan98@icloud.com,Milan,Italy,Silver,2021-09-09,2021-09-09 10:00:00
+C0154,Yuki,Chen,yuki.chen10@outlook.com,Manchester,United Kingdom,Platinum,2021-02-26,2021-02-26 10:00:00
+C0155,Oliver,Ricci,oliver.ricci36@icloud.com,Paris,France,Silver,2020-02-11,2020-02-11 10:00:00
+C0156,Sophia,Haddad,sophia.haddad70@gmail.com,Paris,France,Silver,2022-11-15,2022-11-15 10:00:00
+C0157,Camille,Rossi,camille.rossi25@icloud.com,Milan,Italy,Gold,2023-11-25,2023-11-25 10:00:00
+C0158,Emma,Ricci,emma.ricci47@gmail.com,Rome,Italy,Gold,2024-05-17,2024-05-17 10:00:00
+C0159,Matteo,Brown,matteo.brown80@outlook.com,Milan,Italy,Platinum,2024-01-13,2024-01-13 10:00:00
+C0160,Layla,Tanaka,layla.tanaka82@gmail.com,Rome,Italy,Silver,2023-11-14,2023-11-14 10:00:00
+C0161,Henry,Martin,henry.martin40@gmail.com,Dubai,UAE,Platinum,2025-02-03,2025-02-03 10:00:00
+C0162,Sophia,Wang,sophia.wang37@outlook.com,Tokyo,Japan,Platinum,2024-08-24,2024-08-24 10:00:00
+C0163,Sophia,Haddad,sophia.haddad12@gmail.com,Manchester,United Kingdom,Platinum,2020-07-12,2020-07-12 10:00:00
+C0164,Olivia,Khan,olivia.khan4@icloud.com,Dubai,UAE,Silver,2020-02-16,2020-02-16 10:00:00
+C0165,Hugo,Muller,hugo.muller70@icloud.com,Tokyo,Japan,Silver,2025-08-05,2025-08-05 10:00:00
+C0166,Matteo,Wang,matteo.wang8@icloud.com,Manchester,United Kingdom,Gold,2026-06-16,2026-06-16 10:00:00
+C0167,Omar,Tanaka,omar.tanaka52@icloud.com,Tokyo,Japan,Gold,2022-04-06,2022-04-06 10:00:00
+C0168,James,Chen,james.chen83@icloud.com,London,UK,Silver,2020-03-26,2020-03-26 10:00:00
+C0169,Henry,Martin,henry.martin16@outlook.com,Tokyo,Japan,Silver,2025-04-21,2025-04-21 10:00:00
+C0170,Mei,Bianchi,mei.bianchi28@outlook.com,New York,United States,Silver,2022-07-12,2022-07-12 10:00:00
+C0171,Hugo,Wang,hugo.wang23@outlook.com,Tokyo,Japan,Gold,2020-06-06,2020-06-06 10:00:00
+C0172,Giulia,Haddad,giulia.haddad37@outlook.com,Manchester,United Kingdom,Silver,2023-05-20,2023-05-20 10:00:00
+C0173,Sophia,Garcia,sophia.garcia48@gmail.com,Manchester,United Kingdom,Silver,2022-04-03,2022-04-03 10:00:00
+C0174,Layla,Khan,layla.khan25@icloud.com,Paris,France,Silver,2023-07-23,2023-07-23 10:00:00
+C0175,Giulia,Sato,giulia.sato40@icloud.com,Dubai,UAE,Silver,2025-02-27,2025-02-27 10:00:00
+C0176,Amelia,Tanaka,amelia.tanaka89@gmail.com,New York,United States,Silver,2025-02-05,2025-02-05 10:00:00
+C0177,Leo,Brown,leo.brown68@icloud.com,Manchester,United Kingdom,Gold,2025-03-17,2025-03-17 10:00:00
+C0178,Sophia,Martin,sophia.martin16@icloud.com,New York,USA,Silver,2024-09-11,2024-09-11 10:00:00
+C0179,Layla,Khan,layla.khan29@outlook.com,Tokyo,Japan,Silver,2021-06-14,2021-06-14 10:00:00
+C0180,Giulia,Ricci,giulia.ricci62@outlook.com,New York,US,Platinum,2023-03-06,2023-03-06 10:00:00
+C0181,Omar,Dubois,omar.dubois35@outlook.com,New York,USA,Silver,2020-10-31,2020-10-31 10:00:00
+C0182,Noah,Johnson,noah.johnson97@icloud.com,Manchester,United Kingdom,Gold,2021-01-15,2021-01-15 10:00:00
+C0183,Sophia,Taylor,sophia.taylor92@gmail.com,London,United Kingdom,Silver,2020-01-02,2020-01-02 10:00:00
+C0184,Olivia,Smith,olivia.smith7@gmail.com,Rome,Italy,Silver,2021-06-20,2021-06-20 10:00:00
+C0185,Yuki,Clarke,yuki.clarke64@gmail.com,Milan,Italy,Silver,2020-07-27,2020-07-27 10:00:00
+C0186,Amelia,Bianchi,amelia.bianchi40@icloud.com,London,United Kingdom,Silver,2025-01-29,2025-01-29 10:00:00
+C0187,Charlotte,Muller,charlotte.muller10@gmail.com,Manchester,United Kingdom,Silver,2025-12-07,2025-12-07 10:00:00
+C0188,Sophia,Brown,sophia.brown24@gmail.com,London,UK,Silver,2023-12-27,2023-12-27 10:00:00
+C0189,Amelia,Haddad,amelia.haddad81@gmail.com,London,UK,Platinum,2020-06-08,2020-06-08 10:00:00
+C0190,Giulia,Garcia,giulia.garcia97@outlook.com,Dubai,United Arab Emirates,Gold,2023-06-21,2023-06-21 10:00:00
+C0191,Charlotte,Khan,charlotte.khan23@icloud.com,Tokyo,Japan,Platinum,2025-07-10,2025-07-10 10:00:00
+C0192,Camille,Muller,camille.muller6@icloud.com,Rome,Italy,Gold,2020-11-30,2020-11-30 10:00:00
+C0193,Matteo,Smith,matteo.smith64@icloud.com,Tokyo,Japan,Silver,2025-01-14,2025-01-14 10:00:00
+C0194,Yuki,Clarke,yuki.clarke95@gmail.com,Paris,France,Silver,2021-11-25,2021-11-25 10:00:00
+C0195,Matteo,Martin,matteo.martin16@outlook.com,Manchester,United Kingdom,Silver,2021-06-11,2021-06-11 10:00:00
+C0196,Noah,Clarke,noah.clarke38@outlook.com,Paris,France,Gold,2026-07-19,2026-07-19 10:00:00
+C0197,Leo,Khan,leo.khan70@outlook.com,New York,USA,Silver,2025-04-12,2025-04-12 10:00:00
+C0198,Leo,Martin,leo.martin64@outlook.com,Manchester,United Kingdom,Platinum,2022-07-30,2022-07-30 10:00:00
+C0199,Test,Account1,qa1@test.maison.internal,London,United Kingdom,Silver,2023-07-20,2023-07-20 10:00:00
+C0200,Test,Account2,qa2@test.maison.internal,London,United Kingdom,Silver,2021-05-01,2021-05-01 10:00:00
+C0026,Omar,Wang,omar.wang34@outlook.com,Manchester,United Kingdom,Platinum,2023-02-07,2023-02-07 10:00:00

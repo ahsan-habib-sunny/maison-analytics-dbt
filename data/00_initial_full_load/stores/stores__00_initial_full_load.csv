@@ -1,0 +1,8 @@
+store_id,store_name,city,country,channel
+S01,Maison London Bond Street,London,UK,boutique
+S02,Maison Paris Montaigne,Paris,France,boutique
+S03,Maison Milan Montenapoleone,Milan,Italy,boutique
+S04,Maison Dubai Mall,Dubai,United Arab Emirates,boutique
+S05,Maison New York Madison,New York,USA,boutique
+S06,Maison Tokyo Ginza,Tokyo,Japan,boutique
+S07,Maison Online,London,United Kingdom,online

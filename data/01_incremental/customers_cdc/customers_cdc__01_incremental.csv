@@ -1,0 +1,22 @@
+op,lsn,change_ts,customer_id,first_name,last_name,email,city,country,tier,signup_date,updated_at
+I,5001,2026-11-01 09:15:00,C0201,Camille,Laurent,camille.laurent74@gmail.com,Milan,Italy,Silver,2026-10-29,2026-10-29 10:00:00
+I,5002,2026-11-01 11:00:00,C0204,Mei,Martin,mei.martin2@outlook.com,Rome,Italy,Silver,2026-11-01,2026-11-01 10:00:00
+U,5003,2026-11-01 12:34:31,C0017,Zara,Moreau,zara.moreau41@outlook.com,New York,USA,Platinum,2021-01-19,2026-11-01 12:34:31
+U,5004,2026-11-01 12:35:12,C0043,Oliver,Chen,oliver.chen11@maisonclient.com,Tokyo,Japan,Gold,2022-10-08,2026-11-01 12:35:12
+U,5005,2026-11-01 19:44:48,C0111,Grace,Dubois,grace.dubois33@gmail.com,Tokyo,Japan,Gold,2025-11-30,2026-11-01 19:44:48
+I,5006,2026-11-02 11:00:00,C0202,Grace,Dubois,grace.dubois4@icloud.com,Milan,Italy,Silver,2026-11-02,2026-11-02 10:00:00
+I,5007,2026-11-02 11:00:00,C0203,Hugo,Sato,hugo.sato89@gmail.com,Rome,Italy,Silver,2026-11-02,2026-11-02 10:00:00
+I,5008,2026-11-02 11:00:00,C0206,Henry,Ricci,henry.ricci96@outlook.com,Tokyo,Japan,Platinum,2026-11-02,2026-11-02 10:00:00
+U,5009,2026-11-02 16:35:15,C0192,Camille,Muller,camille.muller6@icloud.com,Milan,Italy,Gold,2020-11-30,2026-11-02 16:35:15
+U,5010,2026-11-02 20:17:46,C0037,Camille,Garcia,camille.garcia96@icloud.com,Dubai,United Arab Emirates,Platinum,2024-01-03,2026-11-02 20:17:46
+U,5011,2026-11-03 12:52:49,C0057,Grace,Brown,grace.brown92@icloud.com,Manchester,United Kingdom,Gold,2021-11-30,2026-11-03 12:52:49
+U,5012,2026-11-03 13:20:28,C0151,James,Wang,james.wang82@icloud.com,Rome,Italy,Gold,2026-06-09,2026-11-03 13:20:28
+U,5013,2026-11-03 18:04:09,C0036,Grace,Taylor,grace.taylor21@maisonclient.com,Dubai,UAE,Silver,2022-12-06,2026-11-03 18:04:09
+U,5014,2026-11-03 18:36:34,C0006,Yuki,Laurent,yuki.laurent21@icloud.com,Milan,Italy,Gold,2025-12-10,2026-11-03 18:36:34
+U,5015,2026-11-04 10:52:38,C0176,Amelia,Tanaka,amelia.tanaka89@gmail.com,New York,United States,Gold,2025-02-05,2026-11-04 10:52:38
+I,5016,2026-11-04 11:00:00,C0205,Omar,Taylor,omar.taylor30@gmail.com,Paris,France,Silver,2026-11-04,2026-11-04 10:00:00
+U,5017,2026-11-05 11:56:02,C0054,Mei,Martin,mei.martin42@gmail.com,Rome,Italy,Gold,2022-06-19,2026-11-05 11:56:02
+U,5018,2026-11-05 14:01:01,C0066,Matteo,Dubois,matteo.dubois47@icloud.com,Tokyo,Japan,Gold,2023-01-13,2026-11-05 14:01:01
+U,5019,2026-11-06 10:10:41,C0061,Lucas,Bianchi,lucas.bianchi36@icloud.com,Tokyo,Japan,Gold,2022-11-05,2026-11-06 10:10:41
+U,5020,2026-11-06 16:46:21,C0130,Camille,Chen,camille.chen13@icloud.com,Rome,Italy,Platinum,2022-08-27,2026-11-06 16:46:21
+U,5021,2026-11-06 16:51:12,C0129,Omar,Wang,omar.wang77@gmail.com,Tokyo,Japan,Gold,2022-02-20,2026-11-06 16:51:12
