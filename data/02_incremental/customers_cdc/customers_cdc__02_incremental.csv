@@ -1,0 +1,16 @@
+op,lsn,change_ts,customer_id,first_name,last_name,email,city,country,tier,signup_date,updated_at
+U,5022,2026-11-09 10:00:00,C0171,Hugo,Wang,hugo.wang23@outlook.com,Tokyo,Japan,Platinum,2020-06-06,2026-11-09 10:00:00
+U,5036,2026-11-13 11:41:51,C0139,Olivia,Bianchi,olivia.bianchi90@outlook.com,Tokyo,Japan,Platinum,2022-10-07,2026-11-13 11:41:51
+I,5024,2026-11-09 11:00:00,C0210,Omar,Garcia,omar.garcia77@outlook.com,Manchester,United Kingdom,Silver,2026-11-09,2026-11-09 10:00:00
+I,5025,2026-11-09 11:00:00,C0211,Matteo,Haddad,matteo.haddad41@outlook.com,Manchester,United Kingdom,Silver,2026-11-09,2026-11-09 10:00:00
+U,5026,2026-11-10 10:49:29,C0001,Mei,Johnson,mei.johnson4@icloud.com,London,GB,Gold,2023-11-22,2026-11-10 10:49:29
+U,5027,2026-11-10 15:06:22,C0120,Henry,Wang,henry.wang79@outlook.com,London,United Kingdom,Gold,2024-12-27,2026-11-10 15:06:22
+U,5028,2026-11-11 10:41:36,C0059,Zara,Khan,zara.khan45@outlook.com,Tokyo,Japan,Gold,2025-04-12,2026-11-11 10:41:36
+I,5029,2026-11-11 11:00:00,C0207,Hugo,Dubois,hugo.dubois51@icloud.com,Rome,Italy,Gold,2026-11-11,2026-11-11 10:00:00
+U,5030,2026-11-11 11:29:31,C0048,Emma,Dubois,emma.dubois30@outlook.com,New York,USA,Gold,2024-12-25,2026-11-11 11:29:31
+I,5031,2026-11-12 11:00:00,C0209,Oliver,Garcia,oliver.garcia59@gmail.com,London,UK,Silver,2026-11-12,2026-11-12 10:00:00
+U,5032,2026-11-12 16:30:00,C0171,Hugo,Wang,hugo.wang23@outlook.com,Manchester,United Kingdom,Platinum,2020-06-06,2026-11-12 16:30:00
+U,5033,2026-11-12 19:27:41,C0136,Grace,Sato,grace.sato68@outlook.com,Milan,Italy,Gold,2026-06-27,2026-11-12 19:27:41
+D,5034,2026-11-13 08:00:00,C0050,,,,,,,,
+D,5035,2026-11-13 08:01:00,C0056,,,,,,,,
+I,5023,2026-11-09 11:00:00,C0208,Charlotte,Ricci,charlotte.ricci81@gmail.com,Manchester,United Kingdom,Silver,2026-11-09,2026-11-09 10:00:00

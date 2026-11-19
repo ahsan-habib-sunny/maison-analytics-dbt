@@ -1,0 +1,2 @@
+# Source data files are stored byte-for-byte (no line-ending conversion)
+data/** -text
